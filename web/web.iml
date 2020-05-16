@@ -30,5 +30,6 @@
     <orderEntry type="library" exported="" name="json-lib-2.1-jdk15" level="project" />
     <orderEntry type="library" exported="" name="mysql-connector-java-5.1.46-bin" level="project" />
     <orderEntry type="library" name="servlet-api" level="project" />
+    <orderEntry type="library" name="json-20190722" level="project" />
   </component>
 </module>

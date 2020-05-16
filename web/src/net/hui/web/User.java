@@ -8,8 +8,10 @@ import java.util.Map;
 public class User {
 
 
-    public Map<String, Double> info;
+    public Map<String, Double> info= new HashMap<>();
 
+
+    public List<Map<String,String>> bs =new ArrayList<>();
 
     //用户姓名
     private String userName;
@@ -40,7 +42,7 @@ public class User {
     }
 
     public String getAdr_id(){
-        return this.adr_id;
+        return adr_id;
     }
 
 
